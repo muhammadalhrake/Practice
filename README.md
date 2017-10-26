@@ -1,2 +1,2 @@
 # Practice
-We are going to practice the shit out of this
+صنع هذا الملف وهذا المشروع للتدريب فقط لا غير
